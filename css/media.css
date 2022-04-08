@@ -1,0 +1,1002 @@
+@media only screen and (min-width:1201px) and (max-width:1400px){
+.header-outer {
+	padding: 24px 20px 0;
+}	
+.for-busniness ul li {
+	margin: 0 5px;
+}
+.login-outer a {
+	padding-left: 13px;
+	padding-right: 13px;
+}
+.login-outer a.sign-up {
+	margin-left: 5px;
+}
+.search-description input, .search-location input {
+	font-size: 14px;
+	padding: 12px 20px;
+	max-width: 216px;
+}
+.search-filed {
+	width: 47%;
+}
+.search-btn {
+	width: 54px;
+	padding: 10.7px 0;
+}
+.viking-professionls-right h1 {
+	font-size: 37px;
+	line-height: 48px;
+}
+.client-Viking-01 img {
+	height: 26px;
+}
+}
+@media only screen and (min-width:992px) and (max-width:1200px){
+.header-outer {
+	padding: 15px 20px 0;
+}	
+.search-description input, .search-location input {
+	font-size: 14px;
+	padding: 12px 13px;
+	max-width: 190px;
+}
+.search-filed {
+	width: 45%;
+}
+.log-in-outer {
+	width: 42%;
+}
+.for-busniness ul li {
+	margin: 0 5px;
+}
+.for-busniness ul li a {
+	font-size: 13px;
+	padding: 10px 7px;
+}
+.login-outer a {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+.search-btn {
+	width: 50px;
+	padding: 10.7px 0;
+}
+.mauro-cafe-gallery a img {
+	height: 340px;
+}
+.mauro-cafe-content-inner h1 {
+	font-size: 40px;
+}
+.rating-outer li {
+	font-size: 14px;
+}
+.rating-outer li img {
+	height: 28px;
+}
+.claimed-outer ul li {
+	font-size: 15px;
+	line-height: 20px;
+}
+.claimed-outer ul {
+	margin: 10px 0 10px;
+}
+.table-date-outer {
+	padding: 0px 0 0 30px;
+}
+.photo-container-outer ul li {
+	width: 290px;
+	height: 215px;
+}
+.heading-01 {
+	font-size: 18px;
+	margin: 0 0 15px;
+}
+.mal-left a,.mal-left,.mal-left p {
+	font-size: 15px;
+	line-height: 23px;
+}
+.mail-right-outer {
+	padding: 15px 0px;
+}
+.jamba-left {
+	width: 77%;
+}
+.table-date-outer table tr th,.table-date-outer table tr td {
+	font-size: 15px;
+	line-height: 21px;
+	padding: 0 1em 9px 0;
+}
+.get-direction-right {
+	margin-left: 11px;
+}
+.dishe-img-1 {
+	height: 140px;
+	margin-bottom: 12px;
+}
+.dishe-content h4 {
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.dishe-content ul li {
+	font-size: 13px;
+	line-height: 18px;
+}
+.btn-021 {
+	padding-left: 12px;
+	padding-right: 12px;
+	font-size: 15px;
+}
+.viking-professionls-right h1 {
+	font-size: 38px;
+	line-height: 46px;
+}
+.client-Viking-01 img {
+	height: 26px;
+}
+.biz-review-inner ul li {
+	margin-bottom: 6px;
+}
+.portfolio-from-busniess-inner img {
+	width: 340px;
+}
+.Highlights-sec-01 ul {
+	grid-gap: 5px;
+	margin: 0 0 20px;
+}
+.Highlights-sec-01 ul li p {
+	padding: 18px 10px 0;
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+.header-outer {
+	padding: 15px 20px 0;
+}	
+.search-description input, .search-location input {
+	font-size: 14px;
+	padding: 12px 13px;
+	max-width: 190px;
+}
+.search-filed {
+	width: 56%;
+}
+.for-busniness {
+	display: none;
+}
+.log-in-outer {
+	width: 31%;
+}
+.for-busniness ul li {
+	margin: 0 5px;
+}
+.for-busniness ul li a {
+	font-size: 13px;
+	padding: 10px 7px;
+}
+.login-outer a {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+.search-btn {
+	width: 50px;
+	padding: 10.7px 0;
+}
+.mauro-cafe-gallery a img {
+	height: 270px;
+}
+.close-outer {
+	font-size: 15px;
+	line-height: 20px;
+}
+.see-photos-outer a {
+	height: 46px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+.mauro-cafe-content-inner h1 {
+	font-size: 35px;
+}
+.rating-outer li {
+	font-size: 14px;
+}
+.rating-outer li img {
+	height: 26px;
+}
+.claimed-outer ul li {
+	font-size: 14px;
+	line-height: 20px;
+}
+.claimed-outer ul {
+	margin: 10px 0 10px;
+}
+.table-date-outer {
+	padding: 0px 0 0 30px;
+}
+.photo-container-outer ul li {
+	width: 290px;
+	height: 215px;
+}
+.heading-01 {
+	font-size: 18px;
+	margin: 0 0 15px;
+}
+.mal-left a,.mal-left,.mal-left p {
+	font-size: 15px;
+	line-height: 23px;
+}
+.mail-right-outer {
+	padding: 15px 0px;
+}
+.jamba-left {
+	width: 77%;
+}
+.table-date-outer table tr th,.table-date-outer table tr td {
+	font-size: 15px;
+	line-height: 21px;
+	padding: 0 1em 9px 0;
+}
+.get-direction-right {
+	margin-left: 11px;
+}
+.most-mentioned-left h5,.most-mentioned-right a {
+	font-weight: 600;
+}
+.dishe-img-1 {
+	height: 140px;
+	margin-bottom: 12px;
+}
+.dishe-content h4 {
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.website-menu-01,.border-01 {
+	margin: 0 0 27px;
+	padding: 0 0 27px;
+}
+.dishe-content ul li {
+	font-size: 13px;
+	line-height: 18px;
+}
+.btn-021 {
+	padding-left: 12px;
+	padding-right: 12px;
+	font-size: 15px;
+}
+.biz-details-left {
+	padding-right: 0;
+	width: 100%;
+}
+.biz-details-right {
+	padding-left: 0;
+	width: 100%;
+}
+.browse-nearby-main {
+	padding: 30px 0 20px;
+}
+.heading-78 {
+	font-size: 18px;
+	font-weight: 600;
+}
+.browse-nearby-content h4 br {
+	display: none;
+}
+.menu-dropdown.More-menu {
+	width: 160px;
+	height: 360px;
+}
+.menu-dropdown.More-menu .menu-dropdown-inner {
+	column-count: inherit;
+}
+.viking-professionls-right h1 {
+	font-size: 38px;
+	line-height: 46px;
+}
+.client-Viking-01 img {
+	height: 25px;
+}
+.portfolio-from-busniess-inner img {
+	width: 320px;
+}
+.people-also-viewed-inner {
+	padding: 0 15px;
+}
+.people-also-viewed-img-01 img {
+	height: 156px;
+}
+.near-by-me.near-by-me-viking {
+	padding-right: 10px;
+}
+}
+
+@media only screen  and (max-width:767px){
+.header-outer {
+	padding: 5px 20px 0;
+	display: inherit;
+}
+.search-description input, .search-location input {
+	font-size: 14px;
+	padding: 12px 13px;
+	max-width: 100%;
+}
+.search-description {
+	width: 100%;
+}
+.search-filed {
+	width: 100%;
+	display: inherit;
+}
+.search-location {
+	width: 100%;
+}
+.for-busniness {
+	display: none;
+}
+.log-in-outer {
+	width: 31%;
+}
+.for-busniness ul li {
+	margin: 0 5px;
+}
+.for-busniness ul li a {
+	font-size: 13px;
+	padding: 10px 7px;
+}
+.login-outer a {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+.search-btn {
+	width: 50px;
+	padding: 10.7px 0;
+}
+.mauro-cafe-gallery a img {
+	height: 210px;
+}
+.close-outer {
+	font-size: 15px;
+	line-height: 20px;
+	color: rgb(45, 46, 47);
+}
+.see-photos-outer a {
+	height: 46px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+.mauro-cafe-content-inner h1 {
+	font-size: 28px;
+	color: rgba(45,46,47,1);
+	font-weight: 500;
+}
+.rating-outer li {
+	font-size: 14px;
+	line-height: 26px;
+	color: rgb(45, 46, 47);
+	margin-right: 10px;
+}
+.rating-outer li img {
+	height: 20px;
+}
+.claimed-outer ul li {
+	font-size: 14px;
+	line-height: 20px;
+	color: rgb(45, 46, 47);
+}
+.claimed-outer ul li a {
+	color: rgb(45, 46, 47);
+}
+.claimed-outer ul {
+	margin: 10px 0 10px;
+}
+.table-date-outer {
+	padding: 0px 0 0 22px;
+}
+.photo-container-outer ul li {
+	width: 240px;
+	height: 195px;
+	margin: 0 7px 0 0;
+}
+.heading-01 {
+	font-size: 16px;
+	margin: 0 0 15px;
+	font-weight: 600;
+}
+.mal-left a,.mal-left,.mal-left p {
+	font-size: 15px;
+	line-height: 23px;
+}
+.mail-right-outer {
+	padding: 15px 0px;
+}
+.jamba-left {
+	width: 77%;
+}
+.table-date-outer table tr th,.table-date-outer table tr td {
+	font-size: 15px;
+	line-height: 21px;
+	padding: 0 1em 9px 0;
+}
+.get-direction-right {
+	margin-left: 11px;
+}
+.most-mentioned-left h5,.most-mentioned-right a {
+	font-weight: 600;
+}
+.dishe-img-1 {
+	height: 140px;
+	margin-bottom: 12px;
+}
+.dishe-content h4 {
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+}
+.website-menu-01,.border-01 {
+	margin: 0 0 27px;
+	padding: 0 0 27px;
+}
+.dishe-content ul li {
+	font-size: 13px;
+	line-height: 18px;
+}
+.btn-021 {
+	padding-left: 12px;
+	padding-right: 12px;
+	font-size: 15px;
+}
+.biz-details-left {
+	padding-right: 0;
+	width: 100%;
+}
+.biz-details-right {
+	padding-left: 0;
+	width: 100%;
+}
+.desktop-version {
+	display: none;
+}
+.header-main.mobile-version {
+	display: block !important;
+}
+.mobile-screen-outer {
+	display: none;
+}
+.navbar-toggle {
+	margin: 0px;
+	position: absolute;
+	z-index: 999;
+	display: block !important;
+	background: transparent;
+	outline: none;
+	padding: 9px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	border: none;
+	right: 8px;
+	top: 11px;
+}
+.nav-open.bodyopen .navbar-toggle {
+	right: 12px;
+	top: 17px;
+}
+button.navbar-toggle .icon-bar {
+	display: block;
+	width: 22px;
+	height: 2px !important;
+	border-radius: 1px;
+	margin: 0 0 3px 0;
+	background-color: #ababab;
+}
+button.navbar-toggle .icon-bar:last-child {
+	margin: 0;
+}
+.log-in-outer {
+	width: 100%;
+}
+.login-outer1.main {
+	display: block !important;
+	position: absolute;
+	background: #fff;
+	width: 100%;
+	height: 100vh;
+	top: 0;
+	z-index: 999;
+}
+.mobile-details-outer {
+	float: left;
+	width: 100%;
+	text-align: left;
+	margin: 60px 0 0;
+}
+.nav-open.bodyopen .header-outer {
+	padding: 0;
+}
+.search-btn {
+	top: -27px;
+	right: 27px;
+	background: transparent;
+	padding: 0;
+}
+.search-btn img {
+	display: none;
+}
+.search-btn .mobile-version {
+	display: block !important;
+	height: 18px;
+	cursor: pointer;
+}
+.logo {
+	margin: 0 auto;width: 15%;
+}
+.navbar-outer {
+	padding: 0;
+	text-align: center;
+}
+.mobile-app-outer {
+	position: absolute;
+	left: 15px;
+	top: 8px;
+}
+.mobile-app-outer img {
+	height: 32px;
+}
+.biz-review-inner ul li a {
+	font-size: 15px;
+	padding: 8px 13px;
+}
+.nav-open.bodyopen .logo {
+	position: relative;
+	z-index: 99999;
+	top: 4px;
+}
+.nav-open.bodyopen .mobile-app-outer {
+	top: 8px;
+	z-index: 99999;
+}
+.mobile-details-outer ul {
+	padding: 0 15px;
+}
+.mobile-details-outer ul li a {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.28571em;
+	text-align: left;
+	position: relative;
+	display: flex;
+	align-items: center;
+	height: 48px;
+	color: #333;
+}
+.mobile-details-outer ul li a .icon_svg {
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	overflow: hidden;
+	top: -0.1em;
+	fill: rgba(102,102,102,1);
+	margin-right: 5px;
+}
+.mobile-details-outer ul li {
+	border-bottom: 1px solid #e6e6e6;
+}
+.mobile-details-outer ul li.red-icon-colr a {
+	color: #d32323;
+}
+.mobile-details-outer ul li.red-icon-colr a .icon_svg {
+	fill: rgb(211, 35, 35);
+}
+.nav-open.bodyopen button.navbar-toggle .icon-bar:nth-child(2) {
+	transform: rotate(-49deg);
+	margin: -6px 0 0;
+	width: 20px;
+}
+.nav-open.bodyopen button.navbar-toggle .icon-bar:nth-child(1) {
+	transform: rotate(42deg);
+	margin: 0 0px 4px;
+	width: 20px;
+}
+.nav-open.bodyopen button.navbar-toggle .icon-bar:nth-child(3) {
+	display: none;
+}
+.mauro-cafe-content {
+	position: inherit;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	padding: 0 10px 15px;
+}
+.mauro-cafe-main {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+.mauro-cafe-gallery {
+	order: 1;
+}
+.see-photos-outer {
+	z-index: 99;
+}
+.mauro-cafe-gallery a:nth-child(1) {
+	width: 24%;
+}
+.mauro-cafe-gallery a:nth-child(2) {
+	width: 20%;
+}
+.mauro-cafe-gallery a:nth-child(3) {
+	width: 20%;
+}
+.mauro-cafe-gallery a:nth-child(5) {
+	width: 17%;
+}
+.user-img-05 img {
+	border-radius: 10%;
+}
+.reviews-unit {
+	width: 100%;
+	border-top: 1px solid #ebebeb;
+	border-bottom: 1px solid #ebebeb;
+	padding: 10px 15px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+.reviews-unit-inner {
+	margin-right: 35px;
+}
+.user-revies-outer {
+	margin: 0 0 20px;
+}
+.recommended-outer ,.your-trust-outer{
+	display: none;
+}
+.log-in-outer {
+	text-align: left;
+}
+.add-choise-outer {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.add-choise-inner {
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin: 20px 0 0;
+}
+.add-choise-inner a {
+	color: #0d6efd;
+	font-size: 18px;
+	margin: 0 15px;
+}
+.add-choise-outer .icon_svg {
+	fill: rgb(159, 159, 159);
+	margin: 20px 0 0;
+}
+.browse-nearby-main {
+	padding: 30px 0 20px;
+}
+.heading-78 {
+	font-size: 18px;
+	font-weight: 600;
+}
+.browse-nearby-content h4 br {
+	display: none;
+}
+.browse-nearby-inner {
+	width: 100%;
+	flex: 100%;
+}
+.footer-content-inner h4 {
+	text-align: center;
+}
+.copyright-outer {
+	text-align: center;
+	margin: 28px 0 0;
+}
+.footer-content {
+	width: 100%;
+	text-align: center;
+	margin: 10px 0 0;
+}
+.footer-main {
+	padding: 40px 0;
+}
+.near-by-me {
+	margin: 15px 0;
+}
+.browse-nearby-content p, .browse-nearby-content ul li {
+	margin: 13px 0;
+}
+.navbar-inner ul li {
+	position: inherit;
+}
+.menu-dropdown,.menu-dropdown.home-service-menu,.menu-dropdown.More-menu {
+	left: 0;
+	top: 104px;
+	width: 100%;
+	display: none;
+	padding-left: 24px;
+}
+.menu-dropdown .menu-dropdown-inner {
+	padding: 0 15px;
+}
+.viking-professionls-right h1 {
+	font-size: 38px;
+	line-height: 46px;
+}
+.client-Viking-01 img {
+	height: 25px;
+}
+.portfolio-from-busniess-inner img {
+	width: 320px;
+}
+.people-also-viewed-inner {
+	padding: 0 15px;
+}
+.people-also-viewed-img-01 img {
+	height: 156px;
+}
+.near-by-me.near-by-me-viking {
+	padding-right: 10px;
+}
+.viking-professionls-right {
+	padding-left: 20px;
+}
+.biz-review-inner ul li {
+	margin-bottom: 6px;
+}
+.Updates-from-this-left {
+	width: 30%;
+}
+.Updates-from-this-right {
+	width: 70%;
+}
+.Highlights-sec-01 ul {
+	grid-template-columns: repeat(3,1fr);
+}
+.get-direction-outer.encinita-outrt .get-direction-left {
+	width: 100%;
+}
+.get-direction-outer.encinita-outrt .get-direction-right {
+	width: 100%;
+	margin: 10px 0 0;
+}
+.review-058 {
+	margin: 0 0 20px;
+}
+}
+@media (max-width:639px){
+.search-btn {
+	top: -21px;
+	padding: 0;
+}
+.navbar-inner ul li a {
+	padding: 20px 20px;
+	position: relative;
+}
+.biz-review-inner ul li a {
+	font-size: 13px;
+	padding: 8px 10px;
+}
+.location-hours-outer {
+	width: 100%;
+}
+.table-date-outer {
+	padding: 0;
+	width: 100%;
+}
+.biz-details-main {
+	padding: 14px 15px 0;
+}
+.biz-review-inner ul li {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.biz-details-left-inner {
+	
+	padding-top: 20px;
+	margin: 15px 0 5px;
+}
+.get-direction-outer {
+	width: 100%;
+}
+.get-direction-left {
+	width: 50%;
+}
+.get-direction-right {
+	margin-left: 0;
+	width: 50%;
+}
+.your-trust-inner {
+	padding: 14px 24px 14px 9px;
+	border-left: 4px solid #1f8eff;
+}
+.user-rating-right a {
+	font-weight: 500;
+	font-size: 13px;
+}
+.btn-021 {
+	font-weight: 400;
+}
+.amenities-outer ul li {
+	margin: 0 0 14px;
+	font-size: 15px;
+}
+.About-business-right {
+	width: 85%;
+}
+.your-trust-right {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;;
+}
+.photo-container-outer ul li {
+	width: 200px;
+	height: 155px;
+}
+.mauro-cafe-gallery a img {
+	height: 170px;
+}
+.menu-dropdown, .menu-dropdown.home-service-menu, .menu-dropdown.More-menu {
+	left: 0;
+	top: 98px;
+	width: 100%;
+	padding-left: 0;
+}
+.viking-professionls-left {
+	width: 100%;
+	text-align: center;
+}
+.viking-professionls-right {
+	padding-left: 0;
+	width: 100%;
+}
+.viking-professionls-right h1 {
+	font-size: 28px;
+	line-height: 35px;
+}
+.Updates-from-inner {
+	border: none;
+}
+.Updates-from-this-right {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.Updates-from-this-left {
+	width: 100%;
+	text-align: center;
+}
+.Updates-from-this-left img {
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	max-width: 250px;
+}
+.Updates-from-inner:hover {
+	box-shadow: none;
+}
+}
+
+@media (max-width:479px){
+.navbar-inner ul li a {
+	padding: 15px 20px;
+	position: relative;
+}
+.navbar-inner ul li a::after {
+	top: 19px;
+}	
+.navbar-outer {
+	text-align: left;
+}
+.search-btn .mobile-version {
+	height: 16px;
+}
+.search-btn {
+	top: -13px;
+}
+.logo {
+	width: 20%;
+}
+.search-btn {
+	top: -23px;
+}
+.navbar-toggle {
+	top: 8px;
+}
+.dishes-slider-content {
+	margin: 0 10px;
+}
+.reviews-unit-inner {
+	margin-right: 10px;
+}
+.About-business-right {
+	width: 80%;
+}
+.mauro-cafe-content-inner h1 {
+	font-size: 22px;
+}
+.see-photos-outer a {
+	padding-bottom: 7px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 7px;
+}
+.get-direction-left, .get-direction-right {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.btn-021 {
+	line-height: 22px;
+}
+.heading-01 {
+	margin: 0 0 10px;
+}
+.photo-container-outer ul li {
+	width: 155px;
+	height: 135px;
+}
+.doted-right-outer {
+	width: 8%;
+}
+.justin-review-user {
+	width: 92%;
+}
+.mail-box-content {
+	padding: 10px;
+	margin: 0 0 15px;
+}
+.jamba-outer {
+	margin-top: 13px;
+}
+.jamba-img-01 a img {
+	height: 58px;
+	width: 58px;
+}
+.user-left-details {
+	width: 100%;
+	margin: 0 0 20px;
+}
+.user-rating-right {
+	width: 100%;
+}
+.user-rating-right img {
+	height: 22px;
+}
+.navbar-outer {
+	margin: 10px 0 0;
+}
+.see-photos-outer a {
+	padding-bottom: 7px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 7px;
+	height: 40px;
+}
+.mauro-cafe-gallery a img {
+	height: 140px;
+}
+.most-mentioned-left {
+	width: 57%;
+}
+.most-mentioned-right {
+	width: 43%;
+}
+.most-mentioned-left h5, .most-mentioned-right a {
+	font-size: 14px;
+}
+.Highlights-sec-01 ul {
+	grid-template-columns: repeat(2,1fr);
+}
+}
